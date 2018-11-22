@@ -1,5 +1,10 @@
 je modifie ce fichier pour embêter les gens parce que j'aime bien
 What are you doing Julie!!!
+<<<<<<< HEAD
 Julie beats Luca.
 Julie = 2, Luca = 0
 
+=======
+Luca is the best !!!!! 
+Julie = 0.0!!
+>>>>>>> b2bb381e8c09aacc77baf21a53f9225c13251ef2
