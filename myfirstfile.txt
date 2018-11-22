@@ -7,4 +7,4 @@ Julie = 2, Luca = 0
 Luca is the best !!!!! 
 Julie = 0.0!!
 
-where is your god now!
+where is your god now?
