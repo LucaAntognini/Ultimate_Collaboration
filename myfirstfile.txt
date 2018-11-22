@@ -4,5 +4,5 @@ What are you doing Julie!!!
 Julie beats Luca.
 Julie = 2, Luca = 0
 
-Luca is the best !!!!! 
-Julie = 0.0!!
+Luca is NOT the best !!!!! 
+Julie = 100000.0!!
